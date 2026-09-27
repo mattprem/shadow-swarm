@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790458349|3546024';
+const CACHE_VERSION = '1790526582|4379164';
 /** @type {string} */
 const CACHE_PREFIX = 'Shadow Swarm 3D-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
